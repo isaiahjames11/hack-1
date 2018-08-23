@@ -11,6 +11,7 @@ Isaiah James and Chad Alioth
 int main(int argc, char **argv) {
 
   printf("Isaiah James Computer Science Major\n");
+  printf("Asmita Jayswal Computer Science major\n");
 
   return 0;
 }
